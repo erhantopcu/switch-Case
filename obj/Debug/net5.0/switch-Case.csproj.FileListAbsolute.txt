@@ -1,0 +1,16 @@
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\bin\Debug\net5.0\switch-Case.exe
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\bin\Debug\net5.0\switch-Case.deps.json
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\bin\Debug\net5.0\switch-Case.runtimeconfig.json
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\bin\Debug\net5.0\switch-Case.runtimeconfig.dev.json
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\bin\Debug\net5.0\switch-Case.dll
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\bin\Debug\net5.0\switch-Case.pdb
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.csproj.AssemblyReference.cache
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.AssemblyInfoInputs.cache
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.AssemblyInfo.cs
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.dll
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\refint\switch-Case.dll
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.pdb
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\switch-Case.genruntimeconfig.cache
+C:\Users\erhnt\Desktop\Pratikler\switch-Case\obj\Debug\net5.0\ref\switch-Case.dll
